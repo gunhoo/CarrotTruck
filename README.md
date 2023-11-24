@@ -1,10 +1,13 @@
 # 당근트럭
+
 ### 푸드트럭 주문 및 영업 관리 서비스
+
 ### FoodTruck ~
 
 <br>
 
 ## Team 👨‍👩‍👦‍👦
+
 <table align="center">
     <tr align="center">
         <td><a href="https://github.com/DongHyun22">
@@ -61,23 +64,22 @@
     </tr>
 </table>
 
-
-
 <br>
 
 ## 개요 Introduction 📁
-``` 
+
+```
 당근트럭은 사용자들이 푸드트럭에 보다 손쉽게 접근할 수 있게 하고, 사업자들에게는 푸드트럭의 효율적인 운영을 가능하게 하는 것이 목표입니다.
 ```
 
 <br>
-
 
 ## 개발 기간 Duration 📅
 
 2023.10.09. - 2023.11.17. (6 weeks)
 
 ## 주요 기능 Main Function 🧰
+
 - 푸드트럭 조회 : 자신의 주위에 있는 푸드트럭의 정보를 조회하는 기능
 - 푸드트럭 수요조사 : 사용자는 자신이 원하는 푸드트럭의 수요 조사에 참여 할 수 있는 기능
 - 음식 주문 및 결제 : 사용자는 자신이 원하는 메뉴를 주문하고 결제할 수 있는 기능
@@ -88,16 +90,82 @@
 
 ## 주요 기술 Tech Stack 💡
 
+### Back-End
+
+<div>
+  <img src="https://img.shields.io/badge/Java [11.0.15]-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot [2.7.15]-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle [8.2.1]-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python  [3.11.5]-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi [0.103.1]-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/uvicorn [0.23.2]-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
+</div>
+
+### Front-End
+
+<div>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js [18.16.1]-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+</div>
+
+### DataBase
+
+<div>
+  <img src="https://img.shields.io/badge/mysql [8.0.33]-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql docker image [8.0.29]-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+### VCS
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</div>
+
+### IDE
+
+<div>
+  <img src="https://img.shields.io/badge/Visual Studio Code [1.80.1]-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ IDEA [2023.1.4]-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/pycharm [2023.2.1]-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+</div>
+
+### CI/CD
+
+<div>
+  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker [24.0.4]-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+</div>
+
+### Environment
+
+<div>
+  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Mattermost [5.3.1]-0058CC?style=for-the-badge&logo=mattermost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/termius [8.0.2]-000000?style=for-the-badge&logo=termius&logoColor=white" />
+</div>
+
 ### 시스템 아키텍쳐
+
 - 시스템 아키텍쳐 이미지
 
-### Tool 
+### Tool
+
 ```
 - Project: Jira & Git & Notion
 - Desgin: Figma
 - Server: Amazon EC2
 - CI/CD: Jenkins
 ```
+
 <!--
 
 <br>
@@ -166,7 +234,7 @@
 <img src = "./img/마이페이지.gif" width=192px/>
 
 - 내가 좋아요 한 레시피를 확인할 수 있다.
-- 내가 좋아요 한 식재료를 확인할 수 있다. 
+- 내가 좋아요 한 식재료를 확인할 수 있다.
 - 회원정보 수정을 통해 채식 및 알러지 여부를 변경할 수 있다.
 - 비밀번호 변경 / 로그아웃 / 회원탈퇴를 할 수 있다.
 
@@ -178,7 +246,7 @@
 ### 시스템 아키텍쳐
 <img src="./exec/SA.png"/>
 
-### Tool 
+### Tool
 ```
 - Project: Jira & Git & Notion
 - Desgin: Figma
@@ -194,7 +262,7 @@
 ```
 BackEnd
  ├── Spring
- │    ├── Java: OpenJDK 11 
+ │    ├── Java: OpenJDK 11
  │    ├── SpringBoot: 2.7.13
  │    │    ├── Gradle
  │    │    └── JPA
@@ -208,7 +276,7 @@ BackEnd
  │
  ├── Django
  │    ├── Python: 3.11.4
- │    └── Django: 4.1.7 
+ │    └── Django: 4.1.7
  │
  └── Database
       ├── MariaDB 10.11.4
@@ -221,7 +289,7 @@ FrontEnd
 
 <br>
 
-## 개발 가이드 Development Guild 
+## 개발 가이드 Development Guild
 
 ### [Convention](https://half-yamamomo-2ac.notion.site/Convention-f46b96c0a223459da1a034a20d4bd1f6?pvs=4)
 
@@ -232,8 +300,8 @@ FrontEnd
 <img src = "./exec/ERD.png" />
 
 ### 가이드 🗞
-[프로젝트 매뉴얼(포팅매뉴얼)](./exec/채움_포팅메뉴얼.pdf)  
-[DumpSQL](./exec/dump.sql)  
+[프로젝트 매뉴얼(포팅매뉴얼)](./exec/채움_포팅메뉴얼.pdf)
+[DumpSQL](./exec/dump.sql)
 
 <br>
 
